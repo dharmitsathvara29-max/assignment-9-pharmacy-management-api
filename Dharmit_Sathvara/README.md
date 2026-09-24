@@ -4,6 +4,7 @@
 > **Tech Stack:** Node.js, Express.js, MongoDB Atlas, Mongoose, JWT, bcryptjs, dotenv, cors
 
 ---
+Live link : https://assignment-9-pharmacy-management-api-in6d.onrender.com
 
 ## 📌 1. Objective & Overview
 
